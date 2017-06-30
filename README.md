@@ -1,5 +1,7 @@
 # passwords
 
+[![Build Status](https://travis-ci.org/lifei6671/phalcondocs.svg?branch=master)](https://travis-ci.org/lifei6671/phalcondocs)
+
 Golang实现的密码加密方法.
 
 ## Installation 
