@@ -1,6 +1,6 @@
 # passwords
 
-[![Build Status](https://travis-ci.org/lifei6671/phalcondocs.svg?branch=master)](https://travis-ci.org/lifei6671/phalcondocs)
+[![Build Status](https://travis-ci.org/lifei6671/passwords.svg?branch=master)](https://travis-ci.org/lifei6671/passwords)
 
 Golang实现的密码加密方法.
 
